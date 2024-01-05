@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "141479966661",
+    "project_id": "tfiosiudy",
+    "storage_bucket": "tfiosiudy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141479966661:android:9db98695236d16f7defdac",
+        "android_client_info": {
+          "package_name": "com.tfioya.everth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE8IscOfu_Ui5B5u4XDBdgxaCX2WMKdgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
